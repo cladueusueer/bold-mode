@@ -9,7 +9,7 @@ A Claude Code plugin that lets Claude try the *bold* idea, the rewrite, the dele
 [![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-plugin-ffb020.svg)](#install)
 [![good first issues](https://img.shields.io/github/issues/cladueusueer/bold-mode/good%20first%20issue?label=good%20first%20issues&color=5fd38d)](https://github.com/cladueusueer/bold-mode/labels/good%20first%20issue)
 
-[עברית](README.he.md)
+[עברית](README.he.md) · [Español](README.es.md)
 
 ![An illustrative bold-mode run: isolate, baseline, build, measure, report](assets/demo.svg)
 
